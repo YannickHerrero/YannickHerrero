@@ -30,7 +30,7 @@ Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.d
 
 ### Terminal Fun
 * 🌌 **[Solaris](https://github.com/YannickHerrero/Solaris)** — Terminal-based idle game where you harness the power of the cosmos to generate infinite energy
-* 🦀 **[kanitomo](https://github.com/YannickHerrero/kanitomo)** — A terminal pet crab that thrives on your git commits
+* 🦀 **[kanitomo](https://github.com/YannickHerrero/kanitomo)** — A terminal mini-game collection featuring your pet crab companion.
 
 ### Dotfiles & Config
 * 🪟 **[windot](https://github.com/YannickHerrero/windot)** — Windows/WSL dotfiles with tiling window manager, custom status bar, and automated setup scripts
