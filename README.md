@@ -11,3 +11,23 @@ Currently shipping [Doku](https://www.learnfrenchwithdoku.app/) – a __French l
 I believe in learning by doing, always building something, and improving along the way.
 
 Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.dev)
+
+### Current projects
+
+## Current Projects
+
+* 🐱 **[Doku](https://www.learnfrenchwithdoku.app/)** — iOS app for learning French through graded stories with tap-to-translate, audio pronunciation, and progress tracking
+* 🌌 **[Solaris](https://github.com/YannickHerrero/Solaris)** — Terminal-based idle game where you harness the power of the cosmos to generate infinite energy
+* 🦀 **[kanidachi](https://github.com/YannickHerrero/kanidachi)** — WaniKani client for Android and iOS
+* 🦀 **[kanitomo](https://github.com/YannickHerrero/kanitomo)** — A terminal pet crab that thrives on your git commits
+* 🎬 **[motionflow](https://github.com/YannickHerrero/motionflow)** — Automated pipeline for generating short-form educational videos about the French language
+* 🍿 **[mira](https://github.com/YannickHerrero/mira)** — Cross-platform streaming app for movies and TV shows
+* 👀 **[miru](https://github.com/YannickHerrero/miru)** — Terminal-native anime streaming CLI connecting Anilist, Torrentio, Real-Debrid, and MPV
+* 🎨 **[user-styles](https://github.com/YannickHerrero/user-styles)** — Custom browser userstyles built on the Base16 color system
+* 🪟 **[windot](https://github.com/YannickHerrero/windot)** — Windows/WSL dotfiles with tiling window manager, custom status bar, and automated setup scripts
+* ⚙️ **[dotfiles](https://github.com/YannickHerrero/dotfiles)** — Personal dotfiles for Ubuntu servers
+* 🌐 **[yannickh.dev](https://github.com/YannickHerrero/yannickh.dev)** — Personal portfolio & project showcase
+* 🛠️ **[mtools](https://github.com/YannickHerrero/mtools)** — A unified toolkit for work management and developer utilities
+* ⌨️ **[chocofi-config](https://github.com/YannickHerrero/chocofi-config)** — ZMK firmware configuration for Corne/Chocofi split keyboard
+* 🧬 **[life](https://github.com/YannickHerrero/life)** — Personal habit tracking for Japanese learning, nutrition, and sport
+* 📖 **[yomu](https://github.com/YannickHerrero/yomu)** — iOS Japanese reading assistant with offline dictionary, SRS flashcards, and reading session tracking
