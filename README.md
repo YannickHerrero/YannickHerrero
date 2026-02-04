@@ -12,8 +12,6 @@ I believe in learning by doing, always building something, and improving along t
 
 Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.dev)
 
-### Current projects
-
 ## Current Projects
 
 * 🐱 **[Doku](https://www.learnfrenchwithdoku.app/)** — iOS app for learning French through graded stories with tap-to-translate, audio pronunciation, and progress tracking
