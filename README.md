@@ -30,6 +30,7 @@ Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.d
 
 ### Terminal Fun
 * 🌌 **[Solaris](https://github.com/YannickHerrero/Solaris)** — Terminal-based idle game where you harness the power of the cosmos to generate infinite energy
+* 🃏 **[balatrust](https://github.com/YannickHerrero/balatrust)** — A terminal-based Balatro clone built in Rust.
 * 🦀 **[kanitomo](https://github.com/YannickHerrero/kanitomo)** — A terminal mini-game collection featuring your pet crab companion.
 
 ### Dotfiles & Config
