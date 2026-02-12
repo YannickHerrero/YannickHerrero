@@ -39,5 +39,6 @@ Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.d
 * 🎨 **[user-styles](https://github.com/YannickHerrero/user-styles)** — Custom browser userstyles built on the Base16 color system
 * ⌨️ **[chocofi-config](https://github.com/YannickHerrero/chocofi-config)** — ZMK firmware configuration for Corne/Chocofi split keyboard
 
-### Web
+### Personal
 * 🌐 **[yannickh.dev](https://github.com/YannickHerrero/yannickh.dev)** — Personal portfolio & project showcase
+* 📟 **[ssh.yannickh.dev](https://github.com/YannickHerrero/ssh.yannickh.dev)** — Terminal-based portfolio you can explore over SSH with `ssh yannick.app`
