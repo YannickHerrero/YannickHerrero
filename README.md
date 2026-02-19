@@ -29,7 +29,7 @@ Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.d
 * 🛠️ **[mtools](https://github.com/YannickHerrero/mtools)** — A unified toolkit for work management and developer utilities
 
 ### TUIs
-* 🛠️ **[RSTools](https://github.com/YannickHerrero/rstools)** — A vim-centric terminal toolset built in Rust.
+* 🛠️ **[RSTools](https://github.com/YannickHerrero/rstools)** — A vim-centric terminal toolset built in Rust with a REST client, password manager, todo list, and notes.
 * 🌌 **[Solaris](https://github.com/YannickHerrero/Solaris)** — Terminal-based idle game where you harness the power of the cosmos to generate infinite energy.
 * 🃏 **[balatrust](https://github.com/YannickHerrero/balatrust)** — A terminal-based Balatro clone built in Rust.
 * 🦀 **[kanitomo](https://github.com/YannickHerrero/kanitomo)** — A terminal mini-game collection featuring your pet crab companion.
