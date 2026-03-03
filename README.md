@@ -31,8 +31,10 @@ Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.d
 ### TUIs
 * 🛠️ **[RSTools](https://github.com/YannickHerrero/rstools)** — A vim-centric terminal toolset built in Rust with a REST client, password manager, todo list, and notes.
 * 🌌 **[Solaris](https://github.com/YannickHerrero/Solaris)** — Terminal-based idle game where you harness the power of the cosmos to generate infinite energy.
+* 🧑‍💻 **[Attrition](https://github.com/YannickHerrero/attrition)** —Another terminal-based idle/incremental game inspired by the tech industry.
 * 🃏 **[balatrust](https://github.com/YannickHerrero/balatrust)** — A terminal-based Balatro clone built in Rust.
 * 🦀 **[kanitomo](https://github.com/YannickHerrero/kanitomo)** — A terminal mini-game collection featuring your pet crab companion.
+* ⛰️ **[Eshara](https://github.com/YannickHerrero/Eshara)** —A terminal-based narrative survival game inspired by Lifeline, built with Rust and ratatui.
 
 ### Dotfiles & Config
 * 🪟 **[windot](https://github.com/YannickHerrero/windot)** — Windows/WSL dotfiles with tiling window manager, custom status bar, and automated setup scripts
