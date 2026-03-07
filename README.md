@@ -22,6 +22,7 @@ Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.d
 ### Media & Streaming
 * 🍿 **[mira](https://github.com/YannickHerrero/mira)** — Cross-platform streaming app for movies and TV shows
 * 💻 **[miru](https://github.com/YannickHerrero/miru)** — Terminal-native streaming CLI connecting Anilist, Torrentio, Real-Debrid, and MPV
+* ⛰️ **[Eshara](https://github.com/YannickHerrero/Eshara-app)** — A story-driven mobile game about choices, waiting, and discovering where the path leads. 
 
 ### Tools & Productivity
 * 🧬 **[life](https://github.com/YannickHerrero/life)** — Personal habit tracking for Japanese learning, nutrition, and sport
