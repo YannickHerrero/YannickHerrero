@@ -35,7 +35,7 @@ Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.d
 * 🧱 **[tetrs](https://github.com/YannickHerrero/tetrs)** — Modern Tetris implementation in Rust
 
 ## Tools & Productivity
-* 🛠️ **[RSTools](https://github.com/YannickHerrero/rstools)** — Vim-centric terminal toolset in Rust — REST client, password manager, todo list, and notes
+* 🧰 **[RSTools](https://github.com/YannickHerrero/rstools)** — Vim-centric terminal toolset in Rust — REST client, password manager, todo list, and notes
 * 📊 **[xleak](https://github.com/ttu-ttu/xleak)** — Fast terminal Excel viewer with search, formula display, lazy loading, and CSV/JSON export (contributor)
 * 🧬 **[life](https://github.com/YannickHerrero/life)** — Personal habit tracker for language learning, nutrition, and fitness
 * 🎬 **[MotionFlow](https://github.com/YannickHerrero/motionflow)** — Automated pipeline for generating short-form French educational videos — [landing page](https://github.com/YannickHerrero/motionflow-landing)
