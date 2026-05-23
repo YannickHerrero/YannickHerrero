@@ -36,10 +36,10 @@ Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.d
 
 ## Terminal Games
 * 🗝️ **[Caligo](https://github.com/YannickHerrero/Caligo)** — A roguelike dungeon crawler that runs in your terminal, built in Rust
-* ⛰️ **[Eshara](https://github.com/YannickHerrero/Eshara)** — A terminal-based narrative survival game about choices, waiting, and discovering where the path leads
 * 🌌 **[Solaris](https://github.com/YannickHerrero/Solaris)** — Idle game where you harness the cosmos to generate infinite energy
 * 🏢 **[Attrition](https://github.com/YannickHerrero/attrition)** — Idle/incremental dark satire of tech industry capitalism
 * 🦀 **[kanitomo](https://github.com/YannickHerrero/kanitomo)** — Mini-game collection featuring your pet crab companion
+* ⛰️ **[Eshara](https://github.com/YannickHerrero/Eshara)** — A terminal-based narrative survival game about choices, waiting, and discovering where the path leads
 
 ## Tools & Productivity
 * 🧰 **[RSTools](https://github.com/YannickHerrero/rstools)** — Vim-centric terminal toolset in Rust — REST client, password manager, todo list, and notes
@@ -51,7 +51,7 @@ Open to freelance opportunities – [hello@yannickh.dev](mailto:hello@yannickh.d
 ## Windows desktop
 * 🪟 **[windot](https://github.com/YannickHerrero/windot)** — Windows/WSL dotfiles with tiling WM, custom status bar, and automated setup
 * 🚀 **[wmenu](https://github.com/YannickHerrero/wmenu)** — Keyboard-driven app launcher for Windows, built in Rust
-* ⚙️ **[wconfig](https://github.com/YannickHerrero/wconfig)** — Small Windows configuration utility, built in Rust
+* ⚙️ **[wbar](https://github.com/YannickHerrero/wbar)** — A minimalist status bar for Windows, built in Rust
 * 🗂️ **[Explorer](https://github.com/YannickHerrero/Explorer)** — Keyboard-driven, cross-platform file explorer with Finder-style columns and vim bindings
 
 ## Dotfiles & Config
