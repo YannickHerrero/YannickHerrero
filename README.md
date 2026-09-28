@@ -22,7 +22,7 @@ Open to freelance opportunities: [hello@yannickh.dev](mailto:hello@yannickh.dev)
 * 🐱 **[Doku](https://www.learnfrenchwithdoku.app/)**: Learn French through graded stories, with tap-to-translate, audio pronunciation, and progress tracking.
 * 🗂️ **[Explorer](https://github.com/YannickHerrero/Explorer)**: A keyboard-driven Windows file explorer with Finder-style columns, rich previews, and optional Vim bindings. Built with Tauri, React, and Rust; available through Scoop or standalone installers.
 * 📡 **[miru](https://github.com/YannickHerrero/miru)**: A terminal-native streaming CLI for movies, TV shows, and anime, connecting TMDB, Torrentio, and MPV. Built in Rust.
-* 🍿 **[mira](https://github.com/YannickHerrero/mira)**: A movie and TV streaming app for Android, iOS, and web, with watch-progress tracking and offline downloads. Built with React Native and Expo.
+* 🎬 **[Aniplayer iOS](https://github.com/YannickHerrero/aniplayer-ios)**: A native anime player and manga reader with AniList progress tracking and offline downloads. Built with SwiftUI and MPVKit, with companion targets for macOS and visionOS.
 
 ## Also built
 
