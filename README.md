@@ -1,8 +1,14 @@
 Hi there 👋, I'm **Yannick**!
 
-I'm a freelance developer based in France. If an idea gets stuck in my head, I'll probably end up building it.
+I'm a freelance dev based in France, obsessed with building things and learning new stuff.
 
-My home base is mobile and web development with React Native, Expo, TypeScript, and Next.js. I also build keyboard-first desktop tools in Rust and native apps with SwiftUI.
+If an idea gets stuck in my head, I'll probably end up building it.
+
+These days, I mostly work with Rust, TypeScript, and Swift. I build desktop and terminal tools, web apps with React and Svelte, and mobile apps with SwiftUI or React Native and Expo. I'm always curious about new tools and technologies.
+
+Currently shipping [Doku](https://www.learnfrenchwithdoku.app/), a **French learning app** with graded stories and a cute cat mascot 🐱
+
+I believe in learning by doing, always building something, and improving along the way.
 
 Open to freelance opportunities: [hello@yannickh.dev](mailto:hello@yannickh.dev)
 
